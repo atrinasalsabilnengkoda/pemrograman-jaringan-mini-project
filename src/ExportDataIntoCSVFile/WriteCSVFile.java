@@ -4,10 +4,7 @@
  * and open the template in the editor.
  */
 package ExportDataIntoCSVFile;
-/**
- *
- * @author atrin
- */
+
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
